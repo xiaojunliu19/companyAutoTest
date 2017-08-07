@@ -1,0 +1,15 @@
+*.txt
+*.png
+*.jpg
+*.iml
+*.idea/
+.idea/*
+.idea*
+\.idea*
+maxair/build/
+maxair/Background/
+maxair/screenshot/
+maxair/Bsackground/
+maxair/Video/
+maxair/feededitpicture/
+
